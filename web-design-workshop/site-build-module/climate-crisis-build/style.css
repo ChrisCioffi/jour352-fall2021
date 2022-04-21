@@ -100,32 +100,33 @@ p{
     width:100%;
 }
 
-
-
 .overlay {
-  position: absolute;
+  position: absolute; /*lock this in place */
   width:100%;
   top: 20%;
-  background:#000;
+  background:#000; /* black */
   opacity:.7;
 }
 
-
+/*stop and refresh */
 .hero-hed{
   padding-top:10px;
   margin:0 auto;
   font-size:6em;
   font-family: 'Playfair Display', serif;
-  padding-bottom:10px;
+  padding-bottom:10px; /*add way later */
   color:#fff;
 }
 
+/* refresh but doesn't have separate font yet */
 
 .hero-sub {
   font-family: 'Montserrat', sans-serif;
   font-size:.25em;
 }
 
+
+/* once showing class that changes the font. Show them the font is too big at small sizes Then show media query */ 
 
 /* Pull quotes */
 
