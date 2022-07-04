@@ -126,13 +126,13 @@ p{
 }
 
 
-/* once showing class that changes the font. Show them the font is too big at small sizes Then show media query */ 
+/* once showing class that changes the font. Show them the font is too big at small sizes Then show media query */
 
-/* Pull quotes */
+/* Pull quotes final tutorial element  */
 
 .quote {
   font-family: 'Montserrat', sans-serif;
-  color: #F23030;
+  color: #F23030; /* red color */
   font-size:3em;
   font-weight:700;
   text-align: left;
