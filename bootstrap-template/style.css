@@ -1,22 +1,20 @@
-  .bi {
-    font-size:3em;
+.bi {
+  font-size:3em;
   }
 
   .col-md-4 {
-    text-align: center;
+  text-align: center;
   }
-
-
-
-.bigicon {
+  
+  .bigicon {
   font-size:5em;
-}
-
-.columnstyle {
+  }
+  
+  .columnstyle {
   background-color: blue;
   text-align: right;
-
-}
-.col-md-12 {
+  }
+  
+  .col-md-12 {
   text-align:  center;
-}
+  }
